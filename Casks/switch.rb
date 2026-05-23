@@ -1,6 +1,6 @@
 cask "switch" do
-  version "0.3.0"
-  sha256 "58209a16bef37335445a2449db8caef2abc51ed02e1176906015bf91b2a6267b"
+  version "0.3.1"
+  sha256 "94001e6bd0cd5e90beacd649973d31e706995d1e6cef3d8259e304ecbb4978c7"
 
   url "https://github.com/Sanyam-G/switch/releases/download/v#{version}/Switch-#{version}.dmg",
       verified: "github.com/Sanyam-G/switch/"
