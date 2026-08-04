@@ -1,4 +1,4 @@
-# Switch — Homebrew tap
+# Homebrew tap for Switch
 
 ```
 brew install --cask Sanyam-G/switch/switch
