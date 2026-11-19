@@ -20,6 +20,7 @@ cask "switch" do
     "~/Library/Application Scripts/com.sanyamgarg.switch",
     "~/Library/Caches/com.sanyamgarg.switch",
     "~/Library/Containers/com.sanyamgarg.switch",
+    "~/Library/HTTPStorages/com.sanyamgarg.switch",
     "~/Library/Preferences/com.sanyamgarg.switch.plist",
     "~/Library/Saved Application State/com.sanyamgarg.switch.savedState",
   ]
